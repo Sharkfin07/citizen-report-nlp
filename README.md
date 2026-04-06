@@ -1,0 +1,3 @@
+# Citizen Report NLP
+
+To be honest, developing and training an NLP without prior knowledge about AI is the ballsiest thing I've ever done...
