@@ -1,4 +1,4 @@
-export const INDONESIAN_STOPWORDS = [
+export const ID_STOPWORDS = [
   "di",
   "ke",
   "dari",
