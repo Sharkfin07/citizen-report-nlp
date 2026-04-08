@@ -1,0 +1,8 @@
+export const CATEGORIES = {
+  PUBLIC_WORKS: "PUBLIC_WORKS",
+  SANITATION: "SANITATION",
+  TRANSPORTATION: "TRANSPORTATION",
+  MANUAL_REVIEW: "MANUAL_REVIEW",
+} as const;
+
+export type CategoryName = (typeof CATEGORIES)[keyof typeof CATEGORIES];

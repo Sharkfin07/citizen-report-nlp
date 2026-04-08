@@ -1,0 +1,17 @@
+export const INDONESIAN_STOPWORDS = [
+  "di",
+  "ke",
+  "dari",
+  "yang",
+  "dan",
+  "tolong",
+  "untuk",
+  "pada",
+  "dengan",
+  "karena",
+  "agar",
+  "ini",
+  "itu",
+  "ada",
+  "saya",
+] as const;
