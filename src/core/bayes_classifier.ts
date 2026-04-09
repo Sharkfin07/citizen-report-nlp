@@ -14,16 +14,29 @@ export class BayesClassifier {
   private static instance: BayesClassifier | null = null;
   private readonly classifier: Naivebayes;
 
-  private constructor() {
-    this.classifier = bayes({ ...NLP_CONFIG.bayesOptions });
+  private constructor(classifier: Naivebayes) {
+    this.classifier = classifier;
   }
 
   public static getInstance(): BayesClassifier {
     if (!BayesClassifier.instance) {
-      BayesClassifier.instance = new BayesClassifier();
+      BayesClassifier.instance = new BayesClassifier(
+        bayes({ ...NLP_CONFIG.bayesOptions }),
+      );
     }
 
     return BayesClassifier.instance;
+  }
+
+  // Deserialize to catch up with the newest Naivebayes state
+  public loadJson(json: string | object): BayesClassifier {
+    BayesClassifier.instance = new BayesClassifier(bayes.fromJson(json));
+    return BayesClassifier.instance;
+  }
+
+  // Serialize/save current Naivebayes state
+  public toJson(): string {
+    return this.classifier.toJson();
   }
 
   public learn(text: string, category: CategoryName): this {
