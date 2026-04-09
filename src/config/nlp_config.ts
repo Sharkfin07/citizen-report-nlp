@@ -41,7 +41,7 @@ export const tokenPreprocessor = (tokens: string[]): string[] => {
 
 export const NLP_CONFIG = {
   confidenceThreshold: 0.6,
-  maxReasoningTokens: 5,
+  maxReasoningTokens: 15,
   bayesOptions: {
     alpha: 0.5,
     fitPrior: false,
