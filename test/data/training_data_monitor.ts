@@ -1,4 +1,4 @@
-import data from "../../data/training_dataset.json" with { type: "json" };
+import data from "../../data/training_dataset.json";
 
 // * Count entries per categories
 let counter: Record<string, number> = {};

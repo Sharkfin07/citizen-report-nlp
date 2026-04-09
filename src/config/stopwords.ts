@@ -14,4 +14,12 @@ export const ID_STOPWORDS = [
   "itu",
   "ada",
   "saya",
+  "nya",
+  "pun",
+  "belum",
+  "setiap",
+  "kami",
+  "setelah",
+  "harus",
+  "tersebut",
 ] as const;

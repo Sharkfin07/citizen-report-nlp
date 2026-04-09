@@ -1,12 +1,12 @@
 import { ID_STOPWORDS } from "./stopwords";
 
-const STOPWORDS_SET = new Set<string>(ID_STOPWORDS); // Set of words ignored by the NLP
-const IGNORE_LENGTH = 3; // Minimum length of words to be considered by the NLP
-
 export const tokenPreprocessor = (tokens: string[]): string[] => {
+  const STOPWORDS_SET = new Set<string>(ID_STOPWORDS); // Set of words ignored by the NLP
+  const MAX_IGNORE_LENGTH = 2; // Minimum length of words to be considered by the NLP
+
   return tokens
     .map((t) => t.trim().toLowerCase())
-    .filter((t) => !STOPWORDS_SET.has(t) && t.length >= IGNORE_LENGTH);
+    .filter((t) => !STOPWORDS_SET.has(t) && t.length > MAX_IGNORE_LENGTH);
 };
 
 export const NLP_CONFIG = {
