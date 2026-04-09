@@ -12,5 +12,8 @@
   "type": "commonjs",
   "dependencies": {
     "classificator": "^1.0.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0"
   }
 }
