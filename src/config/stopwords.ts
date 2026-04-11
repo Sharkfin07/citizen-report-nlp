@@ -152,6 +152,7 @@ export const ID_STOPWORDS = [
   "berikutnya",
   "biasa",
   "biasanya",
+  "bisa",
   "boleh",
   "dapat",
   "dulu",
