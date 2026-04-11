@@ -1,0 +1,482 @@
+[
+  {
+    "text": "Hydrant di kawasan pertokoan tidak menghasilkan tekanan air memadai saat pengujian berkala.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Akses kendaraan pemadam ke gang padat penduduk terhalang parkir sehingga memperlambat respons darurat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "APAR pada gedung layanan publik telah melewati masa berlaku dan perlu penggantian segera.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Jalur evakuasi kebakaran di bangunan lama tidak memiliki rambu yang jelas untuk panduan penghuni.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Kebocoran gas pada dapur komunal menimbulkan kepanikan warga dan membutuhkan penanganan unit rescue.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Instalasi listrik tua pada ruko bertingkat memicu percikan api berulang dan berpotensi menyebabkan kebakaran besar.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Mohon simulasi evakuasi kebakaran dilakukan secara rutin pada kawasan hunian padat agar kesiapsiagaan meningkat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sumber air darurat untuk pemadaman di wilayah pinggiran terlalu jauh dari titik rawan insiden.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Tangga darurat pada gedung lama sempit dan terhalang barang sehingga evakuasi berisiko terhambat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Mohon inspeksi menyeluruh terhadap sistem proteksi kebakaran agar standar keselamatan bangunan dapat dipenuhi.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Mohon uji fungsi hydrant berkala karena tekanan air pada kawasan padat pertokoan belum memenuhi kebutuhan operasi.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Akses unit pemadam ke gang sempit terhambat kendaraan parkir sehingga respons awal kebakaran berpotensi terlambat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "APAR di beberapa gedung pelayanan publik telah kedaluwarsa dan memerlukan penggantian sesuai standar keselamatan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Rambu jalur evakuasi pada bangunan lama tidak memadai sehingga penghuni kesulitan menemukan titik keluar darurat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Mohon penanganan kebocoran gas pada fasilitas komunal karena berisiko memicu insiden kebakaran.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Instalasi listrik tua pada area ruko menunjukkan gejala percikan berulang dan membutuhkan inspeksi teknis mendalam.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Simulasi evakuasi kebakaran belum dilaksanakan rutin sehingga kesiapan penghuni gedung masih rendah.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sumber air cadangan pemadaman di wilayah pinggiran belum terjangkau secara cepat oleh petugas lapangan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Tangga darurat pada beberapa bangunan terhalang material sehingga jalur penyelamatan tidak optimal.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Mohon audit sistem proteksi kebakaran terpadu agar kesiapsiagaan penanggulangan bencana meningkat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Hydrant diuji tapi tekanannya lemah banget, kalau kebakaran gede mau andalin apa coba?!",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Akses mobil damkar ketutup parkir liar, ini bahaya serius, waktu respon bisa molor fatal.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "APAR di gedung publik banyak yg kedaluwarsa, masa urusan keselamatan dianggap sepele begini?!",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Rambu evakuasi minim dan gak jelas, penghuni gedung bisa panik total saat kebakaran terjadi.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Kebocoran gas di dapur komunal bikin warga ketakutan, tolong tangani cepat sebelum jadi bencana.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Instalasi listrik lama sering percikan, ini udah warning keras tapi tindak lanjut msh lambat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Simulasi evakuasi jarang banget dilakukan, pas kejadian beneran warga pasti bingung semua.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sumber air pemadaman jauh, petugas jadi kehabisan waktu di menit menit krusial, ini gak bisa dibiarkan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Mohon audit proteksi kebakaran secara komprehensif karena tingkat kesiapsiagaan saat ini masih rendah.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Siaga kebakaran lemah. Darurat!",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Hydrant di zona padat tekanannya lemah, kalau ada kebakaran besar mau andalin apa lagi?!",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Akses damkar ketutup kendaraan parkir, ini keterlaluan, menit awal kebakaran itu krusial banget.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "APAR banyak lewat masa berlaku, gedung publik kok bisa lalai soal keselamatan dasar begini?",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Rambu evakuasi minim dan gak jelas, orang bisa panik total saat asap memenuhi koridor.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Mohon audit proteksi kebakaran dilakukan menyeluruh karena standar kesiapsiagaan di sejumlah bangunan masih rendah.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Kebocoran gas di area komunal sering kejadian, warga takut banget ini bisa meledak kapan aja.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Instalasi listrik tua sering percikan, warning udah jelas tapi tindak lanjut lambat mulu.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Simulasi evakuasi jarang dilakukan, saat kejadian nyata penghuni pasti kebingungan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sumber air darurat jauh, petugas buang waktu berharga buat mobilisasi, ini harus dibenahi sekarang.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sistem siaga kebakaran lemah. Darurat!",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Hydrant gak kuat tekanannya.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Akses damkar ketutup.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "APAR udah kedaluwarsa.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Rambu evakuasi minim.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Risiko kebakaran tinggi.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Listrik sering percikan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Simulasi gak pernah ada.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Jalur darurat terhalang.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Responnya lambat banget.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Ini bahaya serius.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Kesiapan masih minim.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Akses unit sering ketutup.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Hydrant kurang meyakinkan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "APAR perlu dicek ulang.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Jalur evakuasi kurang jelas.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Risiko kebakaran naik.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Simulasi belum rutin.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Tanggap darurat terasa lambat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sumber air kurang dekat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Mohon pengamanan ditingkatkan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Hidran kota di blok pertokoan tidak mencapai debit minimum saat uji alir.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Akses mobil damkar terhambat karena lebar efektif gang kurang dari standar.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "APAR jenis powder di gedung publik melewati masa inspeksi berkala.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sistem alarm kebakaran dan detektor asap belum terintegrasi dengan panel utama.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Jalur evakuasi tidak memiliki photoluminescent sign yang memadai saat listrik padam.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sambungan listrik non-standar meningkatkan potensi korsleting pada jam beban puncak.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Simulasi fire drill penghuni gedung belum dilaksanakan sesuai jadwal semester.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sumber air cadangan untuk pemadaman terlalu jauh dari titik rawan kebakaran.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Tangga darurat terhalang barang sehingga egress time berpotensi meningkat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Diperlukan audit proteksi kebakaran aktif dan pasif pada bangunan berisiko tinggi.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Hidran pilar pada blok komersial perlu re-test debit dan tekanan sesuai standar.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Akses fire truck terganggu karena turning radius gang tidak memenuhi ketentuan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "APAR CO2 pada area panel listrik belum tercatat dalam log inspeksi terbaru.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sistem sprinkler gedung tidak diuji berkala sehingga reliabilitas proteksi menurun.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Smoke detector beberapa lantai tidak terhubung stabil ke fire alarm control panel.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Jalur egress terhalang barang dan memperpanjang waktu evakuasi penghuni.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Fire drill semesteran belum terlaksana sehingga kesiapan penghuni rendah.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sumber air statis untuk pemadaman belum memiliki akses titik hisap yang memadai.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Instalasi listrik beban tinggi memerlukan thermography untuk deteksi hotspot dini.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Diperlukan audit komprehensif proteksi kebakaran aktif-pasif pada bangunan padat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "hidran d blok ruko tekanannya krg saat uji.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "akses mobil damkar ketutup parkir liar mlem hr.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "apar byk yg kedaluwarsa d gedung publik.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "jalur evakuasi gk jelas, rambu minim bngt.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "smoke detector kyknya gk normal d bbrp lantai.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "simulasi fire drill blm dilaksnkn rutin.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "sumber air cadangan jauh, respons jd lambat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "instalasi listrik tua rawan korslet, mhn inspeksi.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "tangga darurat trhalang barang, evakuasi jd susah.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "pemeritah mhn audit proteksi kebkran aktif-pasif.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "hidran pilar d blok niaga debitnya krg saat tes.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "akses fire truck ketutup parkir, turning radius jd mepet.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "apar area panel listrik blm dicatat inspeksi terbaru.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "sprinkler gedung blm diuji rutin, reliabilitas diragukan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "smoke detector gk stabil ke facp d bbrp lantai.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "jalur egress ketutup barang, waktu evakuasi jd lama.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "fire drill semesteran blm jalan sesuai jadwal.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "titik hisap sumber air statis blm siap pakai cepat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "instalasi beban tinggi mhn thermography utk hotspot.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "mhn audit proteksi kebkran aktif+pasif di gedung padat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Terima kasih atas simulasi panik gratis, karena hidran pilar di kawasan niaga debitnya belum memenuhi standar.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Saya lewat gang sempit tiap malam, akses mobil damkar masih terhalang parkir sembarangan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Pengelola gedung bilang aman, namun APAR sudah lewat masa inspeksi berkala.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sambil menunggu lift saya lihat signage evakuasi minim, jalur keluar darurat tidak jelas.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Terima kasih atas misteri alarm, smoke detector beberapa lantai belum stabil ke panel utama.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Kami ikut rapat warga rutin, tapi fire drill semesteran tetap belum terlaksana.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Ruang tangga darurat dipakai menyimpan barang sehingga egress time berpotensi meningkat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Instalasi listrik beban tinggi belum diuji termografi, padahal gejala hotspot mulai sering muncul.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sumber air cadangan pemadaman ada, tetapi titik hisapnya belum siap operasional cepat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Mohon audit proteksi kebakaran aktif dan pasif pada gedung padat sebelum terjadi insiden besar.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Terima kasih atas simulasi tegang rutin, hidran kawasan komersial kembali menunjukkan debit di bawah standar saat uji.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Saya lewat gang padat sambil antar belanja, akses unit damkar masih terhalang parkir liar di mulut jalan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Pengelola gedung bilang aman, tetapi APAR di beberapa titik belum diperbarui sesuai jadwal inspeksi.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sambil menunggu lift, saya perhatikan rambu evakuasi minim dan tidak mudah terlihat dari koridor.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Terima kasih atas misteri alarm, koneksi smoke detector ke panel pusat masih tidak stabil.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Kami sudah usulkan fire drill berkala, namun latihan evakuasi semesteran belum juga dijalankan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Sebelum rapat malam selesai, petugas keamanan melaporkan jalur egress kembali dipenuhi barang.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Terima kasih atas tantangan operasional, titik hisap sumber air cadangan belum siap dipakai cepat.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Instalasi listrik beban tinggi menunjukkan gejala panas, tetapi inspeksi termografi belum dijadwalkan.",
+    "category": "FIRE_AND_RESCUE"
+  },
+  {
+    "text": "Mohon audit proteksi kebakaran aktif-pasif secara komprehensif untuk menurunkan risiko insiden besar.",
+    "category": "FIRE_AND_RESCUE"
+  }
+]

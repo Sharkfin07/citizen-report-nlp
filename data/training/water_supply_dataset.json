@@ -1,0 +1,482 @@
+[
+  {
+    "text": "Tekanan air bersih di kompleks perumahan kami sangat rendah pada pagi hari sehingga kebutuhan rumah tangga tidak terpenuhi.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Air keran sering berwarna keruh setelah hujan dan menimbulkan kekhawatiran masyarakat terhadap kualitas air konsumsi.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Pipa distribusi utama di gang sempit mengalami kebocoran terus menerus dan menyebabkan genangan pada badan jalan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mohon pemberitahuan resmi apabila terjadi penghentian aliran air agar warga dapat melakukan antisipasi kebutuhan harian.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Tagihan air meningkat tajam tanpa perubahan pola pemakaian sehingga perlu dilakukan verifikasi meteran pelanggan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Pasokan air sering terhenti pada malam hari di wilayah dataran tinggi dan mengganggu sanitasi keluarga.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mohon perbaikan kebocoran pipa pada ruas arteri karena pemborosan air berlangsung cukup lama.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Aroma kaporit pada air keran terdeteksi sangat kuat sehingga warga meminta pemeriksaan kualitas air secara berkala.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Distribusi air antarblok perumahan tidak merata dan menyebabkan sebagian rumah tidak menerima aliran pada jam puncak.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mohon penanganan menyeluruh pada jaringan distribusi agar pasokan air bersih kembali stabil.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mohon normalisasi tekanan air pada jaringan distribusi wilayah atas karena pasokan sangat kecil pada pagi hari.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Air keran di beberapa rumah masih keruh dan berendapan sehingga warga ragu menggunakannya untuk kebutuhan harian.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Kebocoran pipa distribusi sekunder belum tertangani dan terus menyebabkan genangan pada jalan lingkungan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Pasokan air berhenti tanpa pemberitahuan pada malam hari sehingga kegiatan sanitasi keluarga terganggu.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mohon kalibrasi ulang meter pelanggan karena tagihan meningkat tidak sebanding dengan pemakaian aktual.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Aroma bahan kimia pada air terdeteksi lebih kuat dari biasanya dan memerlukan pemeriksaan kualitas menyeluruh.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Distribusi air antarzona tidak merata sehingga rumah pada ujung jaringan tidak memperoleh aliran stabil.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mohon percepatan perbaikan pipa primer di ruas arteri untuk mencegah kehilangan air dalam jumlah besar.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Jadwal layanan distribusi belum konsisten sehingga warga kesulitan mengatur cadangan air rumah tangga.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mohon pembaruan infrastruktur jaringan air bersih agar layanan PDAM lebih andal dan berkelanjutan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Air PDAM kecil banget dari pagi sampe siang, mandi aja susah, pelayanan kok makin ngaco?!",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Air keran keruh lagi keruh lagi, udah bayar rutin tapi kualitasnya bikin waswas banget buat keluarga.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Pipa bocor di gang udah lama, air kebuang percuma, jalan jadi licin, laporan warga kok dianggurin terus?!",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mati air tanpa info itu nyebelin bgt, warga jadi panik karena gak sempet nyiapin cadangan sama sekali.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Tagihan naik drastis padahal pemakaian biasa aja, ini meteran error apa sistemnya yg amburadul?",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Bau kaporit nyengat banget hari ini, tolong dicek serius jangan cuma bilang aman aman aja!",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Distribusi air gak adil, blok depan deras, blok belakang seret total, ini jelas gak beres.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mohon dilakukan audit jaringan distribusi karena gangguan pasokan yang berulang telah sangat merugikan warga.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Jadwal aliran gak jelas, msh sering putus tengah malam, keluarga dengan balita paling kerepotan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Air mati lagi. Capek!",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Air PDAM seret banget dari subuh, mau masak dan mandi aja susah, layanan kok gini terus?!",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Air keruh cokelat keluar lagi, udah bayar tepat waktu tapi kualitasnya bikin kecewa berat.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Pipa bocor di jalan lingkungan belum ditangani, air terbuang sia-sia dan jalannya licin bahaya.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mati air tanpa notifikasi itu nyusahin warga, terutama keluarga dengan bayi, tolong punya empati dong!",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mohon investigasi meter air dilakukan transparan karena lonjakan tagihan tidak sesuai pola pemakaian pelanggan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Bau kimia dari keran kerasa banget, warga jadi ragu pakai air buat kebutuhan harian.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Distribusi gak merata, blok belakang hampir gak kebagian, ini bikin konflik antarwarga juga.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Jadwal aliran masih acak, msh sering putus malam hari, persiapan air jadi ribet total.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Perbaikan jaringan cuma sementara, habis itu rusak lagi, warga udah capek ngeluh terus.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Pasokan air amburadul. Kecewa!",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Airnya kecil banget.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mati air lagi hari ini.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Keran keruh terus.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Pipa bocor belum beres.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Tagihan naik gak jelas.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Bau airnya aneh.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Pasokan gak stabil.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Udah lapor, msh sama.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Ngalir sebentar doang.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Kebutuhan jadi terganggu.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Aliran air makin kecil.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Keran keluar keruh lagi.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Tekanan drop terus.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Pasokan putus mendadak.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Pipa diduga bocor lagi.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Tagihan terasa janggal.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Airnya bau tipis.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Msh belum stabil juga.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Distribusi gak merata.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Layanan air mengecewakan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Tekanan jaringan distribusi zona DMA utara turun di bawah standar layanan minimal.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Air pelanggan keruh diduga akibat gangguan pada proses backwash instalasi pengolahan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Pipa HDPE sekunder bocor pada sambungan electrofusion di gang permukiman.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "NRW diperkirakan meningkat karena kebocoran non-tampak pada pipa distribusi tua.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Reservoir layanan cepat kosong pada jam puncak sehingga suplai menjadi intermiten.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Chlor residual di keran pelanggan terindikasi terlalu tinggi dan perlu penyesuaian dosis.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Meter pelanggan kelas rumah tangga diduga under-reading dan perlu tera ulang.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Valve isolasi di jaringan primer sulit dioperasikan saat terjadi insiden kebocoran.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Distribusi gravitasi ke elevasi tinggi tidak stabil tanpa booster pump tambahan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Diperlukan flushing berkala pada dead-end network untuk menjaga kualitas air.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Tekanan layanan pada DMA barat berada di bawah target karena kehilangan head signifikan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Kualitas air pelanggan menurun setelah flushing tidak rutin pada jaringan ujung.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Kebocoran pipa PVC kelas C terindikasi pada sambungan tee distribusi lingkungan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Non-revenue water meningkat akibat kebocoran laten yang belum terlokalisasi.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Booster pump kawasan elevasi tinggi sering trip dan mengganggu kontinuitas layanan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Kadar sisa klor pada titik pelanggan bervariasi dan perlu kontrol distribusi lebih ketat.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Valve chamber tertutup sedimen sehingga operasi isolasi saat gangguan tidak responsif.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Reservoir antara perlu optimasi pola isi-buang untuk menstabilkan tekanan jam puncak.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Meter pelanggan mekanik menunjukkan deviasi dan memerlukan pengujian tera ulang.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Diperlukan district metering yang lebih granular untuk mempercepat deteksi kebocoran.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "air pdam skrg kecil bngt, isi tandon jd lama.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "air krn kadang keruh, warga ragu pakai utk msak.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "pipa distribusi bocor lg, air kebuang trus d jln.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "mti air tnpa info, warga gk siap cadangan.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "tagihan naik tp pemkaian biasa aja, mhn dicek meter.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "bau kaporit kuat bngt dr keran, khawatir utk balita.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "distribusi antarzona gk merata, blk blkg seret terus.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "valve area sini kyknya bermslh, aliran sering drop.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "mhn flushing jaringan krn endapan byk di ujung pipa.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "pemeritah dan pdam tolong benerin suplai yg intermiten.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "air pdam zona atas drop terus, tekanan gk nyampe.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "air keran keruh + endapan, warga ragu buat konsumsi.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "pipa hdpe sekunder bocor, air kebuang dr kmrn.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "nrw kyknya naik, bocor non-tampak blm ketemu titiknya.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "reservoir cpt kosong pas peak hour, suplai jd putus2.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "sisa klor d keran kerasa kuat, mhn cek dosis.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "meter pelanggan diduga error, tagihan jd gk masuk akal.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "valve isolasi susah diputer pas ada gangguan kebocoran.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "distribusi antarzona gk balance, blok ujung seret trus.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "mhn flushing berkala biar kualitas air lbh stabil.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Terima kasih atas program diet air keluarga, karena tekanan aliran PDAM di zona atas sangat kecil pada jam pagi.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Saya baru beli sabun baru, tapi air keran keruh lagi sehingga kebutuhan rumah tangga ikut terganggu.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Anak saya bertanya kenapa lantai selalu basah, ternyata pipa distribusi sekunder di gang kami bocor terus.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Senang sekali dapat kejutan malam, pasokan air berhenti mendadak tanpa pemberitahuan resmi.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Sebelum bayar tagihan listrik saya cek meter air, hasilnya melonjak padahal pola pemakaian tidak berubah.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Terima kasih atas aroma kimia pagi ini, karena residual klor di keran terasa terlalu kuat.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Kami sudah menyiapkan tandon besar, tetapi distribusi antarzona tetap tidak merata dan blok belakang sering kosong.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Sambil menyapu halaman saya lihat valve chamber tertutup sedimen sehingga penanganan gangguan jadi lambat.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Ibu saya menanak nasi lebih awal, namun suplai kembali drop karena reservoir cepat kosong saat jam puncak.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mohon maaf kalau terdengar berulang, tetapi kebocoran jaringan primer di ruas arteri belum ditangani tuntas.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Terima kasih atas tantangan hemat air ekstrem, tekanan distribusi pagi ini kembali turun drastis di zona atas.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Saya sempat menyiapkan sarapan, tetapi air keran keluar keruh sehingga aktivitas rumah tangga ikut tertunda.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Anak saya bertanya kenapa lantai depan selalu basah, ternyata pipa sekunder di gang masih bocor.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Sambil menunggu rapat daring, pasokan air berhenti mendadak lagi tanpa pemberitahuan sebelumnya.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Terima kasih atas matematika bulanan, tagihan naik tajam sementara pola pemakaian keluarga tidak berubah.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Kami mencium bau kimia cukup kuat dari keran sehingga ragu menggunakan air untuk kebutuhan konsumsi.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Sebelum tidur kami isi tandon, namun distribusi antarzona tetap tidak seimbang dan blok belakang seret.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Terima kasih atas mode kejutan malam, reservoir kembali kosong lebih cepat pada jam puncak.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Warga sudah lapor berulang, tetapi operasi valve isolasi saat gangguan masih lambat ditangani.",
+    "category": "WATER_SUPPLY"
+  },
+  {
+    "text": "Mohon stabilisasi jaringan dan flushing berkala agar kualitas serta kontinuitas layanan air membaik.",
+    "category": "WATER_SUPPLY"
+  }
+]

@@ -1,4 +1,5 @@
-import data from "../../data/training_dataset.json";
+import { datasetService } from "../../src/services/dataset_service";
+const data = datasetService.getDataset();
 
 console.log(`Total: ${data.length}`);
 

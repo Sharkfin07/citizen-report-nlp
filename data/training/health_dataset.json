@@ -1,0 +1,482 @@
+[
+  {
+    "text": "Antrean layanan di puskesmas kecamatan sangat panjang sehingga pasien lansia menunggu terlalu lama.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Stok obat untuk penyakit kronis di fasilitas kesehatan tingkat pertama sering kosong dan memberatkan pasien.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Program pencegahan demam berdarah belum dilaksanakan secara merata meskipun kasus meningkat di lingkungan kami.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ruang tunggu imunisasi balita terlalu padat dan ventilasi kurang baik sehingga berisiko meningkatkan penularan penyakit.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Layanan ambulans rujukan datang terlambat pada beberapa kejadian darurat dan memerlukan evaluasi koordinasi.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Peralatan pemantauan gizi di posyandu tidak lengkap sehingga pencatatan pertumbuhan anak kurang akurat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon pemeriksaan pengelolaan limbah medis di klinik karena masyarakat khawatir terhadap keamanan lingkungan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Kegiatan edukasi kesehatan remaja di sekolah belum rutin sehingga informasi pencegahan penyakit kurang tersampaikan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Jadwal layanan preventif di puskesmas sering berubah tanpa pemberitahuan memadai kepada warga.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon peningkatan kualitas layanan primer agar akses kesehatan masyarakat menjadi lebih cepat dan merata.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon penambahan petugas layanan di puskesmas karena antrean pasien harian melebihi kapasitas ruang tunggu.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ketersediaan obat esensial untuk penyakit kronis belum stabil dan menyulitkan pasien menjalani terapi rutin.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Program pengendalian vektor belum menjangkau seluruh wilayah dengan kasus demam berdarah yang meningkat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ruang tunggu imunisasi memerlukan perbaikan ventilasi agar risiko penularan penyakit antarpengunjung berkurang.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon evaluasi kecepatan respons ambulans rujukan pada kejadian gawat darurat di kawasan padat penduduk.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Peralatan pemantauan tumbuh kembang anak di posyandu belum memadai untuk pencatatan yang akurat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Pengelolaan limbah medis pada fasilitas layanan primer perlu pengawasan lebih ketat sesuai standar keselamatan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon penguatan edukasi kesehatan preventif di sekolah agar literasi kesehatan remaja meningkat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Jadwal pelayanan promotif preventif di fasilitas kesehatan sering berubah tanpa informasi yang memadai.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon peningkatan mutu layanan primer agar akses kesehatan masyarakat berjalan cepat, aman, dan merata.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Antrean puskesmas panjang banget sampe lansia berdiri lama, pelayanan dasar kok begini amat?!",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Obat hipertensi sering kosong, pasien disuruh cari sendiri, ini bikin emosi keluarga pasien naik terus.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Kasus DBD naik tapi fogging gak jelas jadwalnya, warga udah panik dari kemarin kemarin.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ruang tunggu imunisasi sesak dan pengap, anak anak rewel semua, kondisi kayak gini gak manusiawi.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ambulans datang telat lagi telat lagi, untuk kasus darurat ini bukan hal sepele, nyawa taruhannya!",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Alat posyandu kurang layak, data tumbuh kembang jadi meragukan, program kesehatan jadi asal jalan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Limbah medis harusnya ketat, tapi pengawasan terlihat lemah, warga jadi khawatir banget.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon peningkatan mutu pelayanan kesehatan primer karena saat ini keluhan masyarakat meningkat secara signifikan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Edukasi kesehatan remaja msh minim bgt, sekolah butuh dukungan nyata, bukan seremoni doang.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Pelayanan kesehatan lambat. Kecewa!",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Antrian puskesmas meledak lagi, pasien nunggu lama banget, pelayanan dasar kok terus begini?!",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Obat rutin untuk pasien kronis sering kosong, keluarga pasien jadi panik dan harus cari ke mana-mana.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Kasus DBD naik tapi tindakan pencegahan lambat, warga udah resah dari minggu lalu.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ruang tunggu imunisasi padat dan panas, anak-anak rewel, orang tua juga stres berat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon peningkatan kapasitas layanan darurat karena keterlambatan ambulans pada kasus kritis sangat membahayakan keselamatan pasien.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Peralatan posyandu kurang lengkap, data tumbuh kembang jadi meragukan, ini gak bisa disepelekan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Pengawasan limbah medis harusnya ketat, tapi di lapangan masih banyak celah, warga jadi takut.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Edukasi kesehatan remaja msh minim, padahal kebutuhan informasi makin tinggi setiap tahun.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Jadwal layanan sering berubah mendadak, pasien bingung dan kecewa karena udah datang jauh-jauh.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Layanan kesehatan lamban. Tolong benahi!",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Antrian panjang terus.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Obatnya kosong lagi.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Pelayanan lambat banget.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ambulans telat datang.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ruang tunggu terlalu padat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Kasus sakit makin naik.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Edukasi kesehatan minim.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Jadwal layanan gak jelas.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Pasien pada ngeluh.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon dibenahi segera.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Layanan masih lambat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Antrean belum terurai.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Obat tertentu kosong.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Respons darurat kurang cepat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ruang tunggu terlalu penuh.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Keluhan pasien banyak.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Jadwal berubah terus.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Edukasi belum merata.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Fasilitas terasa kurang.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon layanan ditingkatkan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Waktu tunggu layanan di puskesmas melebihi standar pelayanan minimal kesehatan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ketersediaan obat esensial pada formularium belum konsisten untuk pasien kronis.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Cakupan fogging fokus belum merata di klaster kasus DBD yang meningkat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Triase pasien gawat darurat di IGD satelit memerlukan penguatan alur rujukan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ventilasi ruang tunggu imunisasi belum memenuhi rasio pertukaran udara yang baik.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Peralatan antropometri posyandu tidak terkalibrasi dan berisiko memengaruhi data gizi.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Pengelolaan limbah B3 medis perlu audit kepatuhan SOP secara berkala.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Capaian program promotif preventif di sekolah masih di bawah target tahunan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Respons time ambulans pada radius layanan padat belum memenuhi ekspektasi.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Diperlukan penguatan surveilans komunitas untuk deteksi dini kejadian penyakit.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "SLM layanan puskesmas belum tercapai pada indikator waktu tunggu pasien umum.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ketersediaan obat chronic care perlu buffer stock untuk mencegah stockout berulang.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Surveilans DBD memerlukan pemetaan kasus berbasis RT untuk intervensi tepat sasaran.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Rujukan berjenjang pasien gawat darurat masih terkendala koordinasi antar fasilitas.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Standar ventilasi ruang tunggu imunisasi belum memenuhi kenyamanan dan pencegahan infeksi.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Kalibrasi alat antropometri posyandu perlu jadwal berkala agar data gizi valid.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Manajemen limbah B3 medis harus diaudit terhadap kepatuhan rantai pengangkutan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Program promotif preventif sekolah membutuhkan indikator capaian yang terukur.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Response time ambulans dalam radius padat masih melebihi target operasional.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Diperlukan peningkatan kapasitas tenaga kesehatan primer untuk menekan backlog layanan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "antrian puskesmas pnjg bngt, lansia nunggu kelamaan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "stok obat kronis sering hbis, pasien jd beli sndiri.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "fogging blm merata pdl kasus dbd naik trus.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "ambulans dtg lambat utk kasus gawat, ini serius.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "ruang tunggu imunisasi sesak, ventilasi krg baik.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "alat posyandu krg akurat, data gizi jd meragukan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "mhn audit limbah medis, warga khawatir bngt.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "jadwal lyanan sering brubah mendadak tnpa info.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "edukasi kesehatan remaja msh minim d sekolah.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "pemeritah mhn tingkatkan slm lyanan kesehatan primer.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "slm puskesmas blm kecapai, antrian pasien pnjg trus.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "obat esensial utk kronis sering stockout d faskes.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "surveilans dbd per rt blm rapi, intervensi jd telat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "rujukan gawat darurat msh mandek di koordinasi.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "ventilasi ruang tunggu imunisasi krg, sesak bgt.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "alat antropometri posyandu blm kalibrasi berkala.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "limbah b3 medis mhn diaudit, warga cemas.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "program promotif-preventif d sklh blm maksimal capaiannya.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "response time ambulans d kawasan padat msh lmbat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "mhn tambah kapasitas nakes primer biar backlog turun.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Terima kasih atas latihan kesabaran kolektif, karena antrean puskesmas tetap panjang meski pasien datang lebih pagi.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Saya sempat menyiapkan dokumen lengkap, namun obat kronis tetap kosong saat giliran pelayanan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Anak saya hafal jadwal hujan, tapi tidak hafal jadwal fogging karena pelaksanaannya belum merata.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Sambil menunggu rujukan, kami mendapat kabar ambulans datang terlambat lagi di kasus darurat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Terima kasih untuk sauna gratis di ruang tunggu, ventilasi imunisasi masih terasa kurang memadai.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Ibu kader posyandu sudah berusaha, tetapi alat antropometri belum terkalibrasi sehingga data gizi diragukan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Kami mendukung layanan kesehatan, namun pengelolaan limbah medis masih perlu pengawasan ketat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Sebelum berangkat kerja saya antar keluarga ke faskes, ternyata jadwal layanan berubah mendadak lagi.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Edukasi kesehatan remaja di sekolah masih sporadis, padahal kebutuhan informasi meningkat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon peningkatan kapasitas layanan primer agar waktu tunggu dan backlog pasien bisa ditekan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Terima kasih atas kelas manajemen antre gratis, waktu tunggu di puskesmas pagi ini kembali melebihi kapasitas layanan.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Saya sempat menyiapkan semua berkas, namun obat esensial pasien kronis tetap tidak tersedia di loket farmasi.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Anak saya hafal jadwal sekolah, tapi tidak hafal jadwal fogging karena intervensi pencegahan belum konsisten.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Sambil menunggu rujukan, informasi kedatangan ambulans kembali mundur pada kasus yang seharusnya prioritas.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Terima kasih atas ruang tunggu versi sauna, ventilasi area imunisasi masih kurang nyaman dan padat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Kader posyandu sudah bekerja maksimal, tetapi alat ukur antropometri belum kalibrasi sehingga data rentan bias.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Sebelum pulang kerja kami diminta kembali lagi, jadwal layanan berubah mendadak tanpa pemberitahuan jelas.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Terima kasih atas literasi kesehatan yang setengah jalan, program edukasi remaja masih sporadis.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Warga mendukung peningkatan mutu, namun pengelolaan limbah medis perlu pengawasan lebih ketat.",
+    "category": "HEALTH"
+  },
+  {
+    "text": "Mohon penguatan kapasitas tenaga kesehatan primer agar backlog pasien dan keluhan berulang dapat ditekan.",
+    "category": "HEALTH"
+  }
+]

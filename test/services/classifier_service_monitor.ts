@@ -1,10 +1,9 @@
 import { classifierService } from "../../src";
-import data from "../../data/training_dataset.json";
+import { datasetService } from "../../src/services/dataset_service";
 
-const message =
-  "Kenapa ada balapan yang berbahaya di jalanan ini? Kok bisa sih sampai begini? Mana polisi";
+const message = "";
 
-classifierService.trainBatch(data);
+classifierService.trainBatch(datasetService.getDataset());
 const result = classifierService.classify(message).data;
 
 // * Logger
