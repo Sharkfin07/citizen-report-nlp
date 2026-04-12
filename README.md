@@ -1,4 +1,5 @@
 # Batagor NLP
+<img width="1920" height="1080" alt="Black and White Modern Pitch Deck Presentation(2)" src="https://github.com/user-attachments/assets/11e257e2-9f75-4e8a-9099-ef6f0367bb04" />
 
 Batagor is, most of all, a popular Indonesian street food, but in this project stands for **Bayesian Tagger for Goverment Organization Routing**.
 
