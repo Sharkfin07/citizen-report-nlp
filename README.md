@@ -1,6 +1,8 @@
-# Citizen Report NLP
+# Batagor NLP
 
-To be honest, developing and training an NLP without prior knowledge about AI is the ballsiest thing I've ever done...
+Batagor is, most of all, a popular Indonesian street food, but in this project stands for **Bayesian Tagger for Goverment Organization Routing**.
+
+Batagor (the "Bayesian Tagger for Goverment Organization Routing" one) is an NLP engine that **automates the categorization of citizen reports**. By leveraging the Naive Bayes algorithm, it deconstructs raw, unstructured complaints into actionable data. It functions as a digital "gatekeeper," ensuring that every complaint, from a broken streetlight to a pile of unmanaged waste, is tagged and routed to the correct government agency with high precision and minimal latency.
 
 ## References
 
