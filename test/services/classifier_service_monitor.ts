@@ -1,7 +1,7 @@
 import { classifierService } from "../../src";
 import { datasetService } from "../../src/services/dataset_service";
 
-const message = "";
+const message = "Jalan ini butuh penerangan";
 
 classifierService.trainBatch(datasetService.getDataset());
 const result = classifierService.classify(message).data;

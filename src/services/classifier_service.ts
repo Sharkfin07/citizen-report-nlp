@@ -5,6 +5,7 @@ import {
   type CategoryName,
 } from "../config/categories";
 import { bayesClassifier } from "../core/bayes_classifier";
+import * as fs from "fs";
 
 export interface ClassifierReasoningItem {
   token: string;
@@ -63,12 +64,20 @@ export class ClassifierService {
     };
   }
 
-  public serialize(): string {
-    return bayesClassifier.toJson();
+  public serialize(savePath: string | null = null): string {
+    const json = bayesClassifier.toJson();
+    if (savePath) {
+      fs.writeFileSync(savePath, json, "utf-8");
+    }
+    return json;
   }
 
   public deserialize(json: string | object): void {
     bayesClassifier.loadJson(json);
+  }
+
+  public deserializeFromPath(loadPath: string): void {
+    bayesClassifier.loadJson(fs.readFileSync(loadPath, "utf-8"));
   }
 
   public reset(): void {
