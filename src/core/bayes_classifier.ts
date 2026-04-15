@@ -12,7 +12,7 @@ import { NLP_CONFIG } from "../config/nlp_config";
 // This is a singleton class
 export class BayesClassifier {
   private static instance: BayesClassifier | null = null;
-  private readonly classifier: Naivebayes;
+  private classifier: Naivebayes;
 
   private constructor(classifier: Naivebayes) {
     this.classifier = classifier;
@@ -29,9 +29,9 @@ export class BayesClassifier {
   }
 
   // Deserialize to catch up with the newest Naivebayes state
-  public loadJson(json: string | object): BayesClassifier {
-    BayesClassifier.instance = new BayesClassifier(bayes.fromJson(json));
-    return BayesClassifier.instance;
+  public loadJson(json: string | object): this {
+    this.classifier = bayes.fromJson(json);
+    return this;
   }
 
   // Serialize/save current Naivebayes state

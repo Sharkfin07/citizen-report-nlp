@@ -133,6 +133,7 @@ export const ID_STOPWORDS = [
   "semua",
   "sendiri",
   "setengah",
+  "sini",
   "setiap",
   "suatu",
   "sudah",

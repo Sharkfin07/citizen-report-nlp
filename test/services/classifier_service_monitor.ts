@@ -1,9 +1,10 @@
 import { classifierService } from "../../src";
-import { datasetService } from "../../src/services/dataset_service";
+import * as fs from "fs";
 
-const message = "Jalan ini butuh penerangan";
+const message = "Pak, ada balap liar di sini!";
 
-classifierService.trainBatch(datasetService.getDataset());
+const json: string = fs.readFileSync("data/state/state-v1.json", "utf-8");
+classifierService.deserialize(json);
 const result = classifierService.classify(message).data;
 
 // * Logger
